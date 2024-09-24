@@ -62,9 +62,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuvraj0011&show_icons=true&theme=dark&text_color=ffffff&hide_border=true&locale=en" alt="yuvraj0011" /></p>
 
 <h3 align="left">If I'm this cool already, imagine how cool I'd be if you buy me a coffee?</h3>
-<p><a href="[[https://www.buymeacoffee.com/yuvrajpandey](https://buymeacoffee.com/yuvraj0011
-)](https://buymeacoffee.com/yuvraj0011
-)"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yuvrajpandey" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/yuvraj0011"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/yuvraj0011" /></a></p><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p>
